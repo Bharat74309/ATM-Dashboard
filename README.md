@@ -21,6 +21,7 @@ This dashboard provides an in-depth analysis of ATM transactions, offering insig
 
 - ![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/74cd214c08ba9f25f4e8afbae808d6a7db09510f/Screenshot%202024-07-14%20193409.png)
 
+
 ### Range Analysis
 - **Margin Range & Transaction Range by ATM ID**: Compare the margin and transaction ranges of the current month and the previous month by individual ATM IDs.
 - **Details Analysis by State and Revenue Performance**: Evaluate the performance of ATMs by state and their revenue contributions.
