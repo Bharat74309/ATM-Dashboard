@@ -5,8 +5,8 @@
 
 This dashboard provides an in-depth analysis of ATM transactions, offering insights into transaction trends, user behavior, and ATM performance. It is designed to help financial institutions and stakeholders make data-driven decisions to improve service efficiency and user satisfaction.
 
-![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/0232cc3c2525b13fa766b36cc11bc1c8f103e49f/Screenshot%202024-07-14%20193354.png)
 ## Key Features
+![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/0232cc3c2525b13fa766b36cc11bc1c8f103e49f/Screenshot%202024-07-14%20193354.png)
 
 ### Transaction Analysis
 - **Transaction Volume Analysis**: Track the number of transactions over different time periods.
