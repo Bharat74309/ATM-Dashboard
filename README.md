@@ -11,7 +11,7 @@ This dashboard provides an in-depth analysis of ATM transactions, offering insig
 - **Transaction Volume Analysis**: Track the number of transactions over different time periods.
 - **ATM Performance**: Monitor the uptime and downtime of ATMs to ensure optimal performance.
 - **Location-Based Insights**: Evaluate the transaction volume and user behavior across different locations.
-https://github.com/Bharat74309/ATM-Dashboard/blob/74cd214c08ba9f25f4e8afbae808d6a7db09510f/Screenshot%202024-07-14%20193409.png
+![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/74cd214c08ba9f25f4e8afbae808d6a7db09510f/Screenshot%202024-07-14%20193409.png)
 ### Cost Analysis
 - **ATM Cost and Maintenance**: Track the costs associated with ATM upkeep and repairs.
 - **Site Maintenance and Spare Repairs**: Monitor expenditures related to site maintenance and spare part repairs.
