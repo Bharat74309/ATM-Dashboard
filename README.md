@@ -5,7 +5,7 @@
 
 This dashboard provides an in-depth analysis of ATM transactions, offering insights into transaction trends, user behavior, and ATM performance. It is designed to help financial institutions and stakeholders make data-driven decisions to improve service efficiency and user satisfaction.
 
-   ![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/0232cc3c2525b13fa766b36cc11bc1c8f103e49f/Screenshot%202024-07-14%20193354.png)
+![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/0232cc3c2525b13fa766b36cc11bc1c8f103e49f/Screenshot%202024-07-14%20193354.png)
 ## Key Features
 
 ### Transaction Analysis
@@ -19,7 +19,7 @@ This dashboard provides an in-depth analysis of ATM transactions, offering insig
 - **ATM Revenue, MHA Revenue, Monthly Revenue by States**: Analyze revenue streams from ATMs, Managed Hosting Agreements (MHAs), and breakdown by state.
 - **Financial Transactions and Non-Financial Transactions by Month**: Compare the volume of financial and non-financial transactions on a monthly basis.
 
-- ![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/74cd214c08ba9f25f4e8afbae808d6a7db09510f/Screenshot%202024-07-14%20193409.png)
+![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/74cd214c08ba9f25f4e8afbae808d6a7db09510f/Screenshot%202024-07-14%20193409.png)
 
 
 ### Range Analysis
@@ -27,7 +27,7 @@ This dashboard provides an in-depth analysis of ATM transactions, offering insig
 - **Details Analysis by State and Revenue Performance**: Evaluate the performance of ATMs by state and their revenue contributions.
 - **ATM Type Analysis**: Analyze the performance and usage statistics of different types of ATMs.
   
-  ![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/3085f3525018716951ab20912ce9e3c593121cbd/Screenshot%202024-07-14%20193421.png)
+![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/3085f3525018716951ab20912ce9e3c593121cbd/Screenshot%202024-07-14%20193421.png)
 ## Visualizations
 
 1. **CRA & ATM AMC, UPS AMC & ATM AMC, VSAT AMC**:
