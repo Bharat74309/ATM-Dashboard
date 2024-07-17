@@ -23,7 +23,7 @@ This dashboard provides an in-depth analysis of ATM transactions, offering insig
 - **Margin Range & Transaction Range by ATM ID**: Compare the margin and transaction ranges of the current month and the previous month by individual ATM IDs.
 - **Details Analysis by State and Revenue Performance**: Evaluate the performance of ATMs by state and their revenue contributions.
 - **ATM Type Analysis**: Analyze the performance and usage statistics of different types of ATMs.
-https://github.com/Bharat74309/ATM-Dashboard/blob/3085f3525018716951ab20912ce9e3c593121cbd/Screenshot%202024-07-14%20193421.png
+![Image Description](https://github.com/Bharat74309/ATM-Dashboard/blob/3085f3525018716951ab20912ce9e3c593121cbd/Screenshot%202024-07-14%20193421.png)
 ## Visualizations
 
 1. **CRA & ATM AMC, UPS AMC & ATM AMC, VSAT AMC**:
